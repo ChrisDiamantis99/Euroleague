@@ -6,4 +6,6 @@ This project is aimed at analyzing the EuroLeague basketball tournament data. Th
 ________________________________________________________
 I have done a research for the dataset but i couldn't find nowhere the full dataset, so I combine random sources from wikipedia and forums.
 
+- **Position: ** Shows the position of team each year.
+- *Team: *
 
